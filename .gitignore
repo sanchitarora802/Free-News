@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 
-/Api_Key.txt
+Api_Key.txt
 
 # testing
 /coverage
