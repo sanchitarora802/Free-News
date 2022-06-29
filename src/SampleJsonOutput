@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 55645,
+  "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Morgan Meaker",
+      "title": "YouTube’s Olympics Highlights Are Riddled With Propaganda",
+      "description": "The platform’s search engine is funneling sports fans into watching political content about China.",
+      "url": "https://www.wired.com/story/china-propaganda-youtube/",
+      "urlToImage": "https://media.wired.com/photos/6206d3032a874327c2dfe8bc/191:100/w_1280,c_limit/Business_Beijing%20Olympics%202022-1368576276.jpg",
+      "publishedAt": "2022-02-11T21:23:04Z",
+      "content": "Sports fans who tuned in to watch the Beijing Winter Olympics on YouTube are instead being served propaganda videos. An analysis of YouTube search results by WIRED found that people who typed Beijing… [+2959 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "The New York Times",
+      "title": "Olympics Live Updates: A Bumper Year for Australia’s Winter Sports",
+      "description": "Jaclyn Narracott is a contender heading into in the women’s skeleton final. The 15-year-old star of Russia’s figure skating team, Kamila Valieva, tested positive for a banned substance.",
+      "url": "https://www.nytimes.com/live/2022/02/11/sports/olympics-medals-winter",
+      "urlToImage": "https://static01.nyt.com/images/2022/02/12/multimedia/12olympics-header-6PM/12olympics-header-6PM-facebookJumbo.jpg",
+      "publishedAt": "2022-02-11T23:57:32Z",
+      "content": "Kamila Valieva of Russia during practice in Beijing last week.Credit...James Hill for The New York Times\r\nWhen news broke that Kamila Valieva, the 15-year-old figure skater who helped propel Russia t… [+3549 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "David W. Chen",
+      "title": "How The NFL Did An About-Face on Sports Gambling",
+      "description": "The league has partnerships with several companies and casinos and a record number of bets are expected to be placed on the Super Bowl. That would have been unlikely years ago given its stance.",
+      "url": "https://www.nytimes.com/2022/02/10/sports/nfl-bets-gambling.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/02/10/sports/10sb-sports-betting1/10sb-sports-betting1-facebookJumbo.jpg",
+      "publishedAt": "2022-02-10T23:21:48Z",
+      "content": "In a few short years, the very idea of sports betting has been transformed from a taboo and sub rosa vice into a major business opportunity, according to a recent report from MoffettNathanson, a rese… [+1283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Alan Blinder and Steven Lee Myers",
+      "title": "China’s Hockey Squad Shows a Powerhouse’s Weakness: Team Sports",
+      "description": "The Chinese team in the Beijing Olympics could shock the Games. But it is more likely to underscore how little infrastructure the country has for team sports.",
+      "url": "https://www.nytimes.com/2022/02/12/sports/olympics/china-hockey-team-sports.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/02/10/sports/00oly-china-teamsports4/merlin_201797769_e53428f3-fb9d-4ce4-b4ef-7e01feb4a4b1-facebookJumbo.jpg",
+      "publishedAt": "2022-02-12T07:40:43Z",
+      "content": "With individual sports, you can lock someone in a room for five years and say, Be the best figure skater or Ping-Pong player or whatever, said Mark Simon, who coached in Chinese youth leagues for 14 … [+2043 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Joanne Kaufman",
+      "title": "How Alex Edelman Grew to Love His Family’s Condo, ‘Shvach’ Sofa and All",
+      "description": "The comedian has made this Upper East Side apartment his own with entertainment and sports memorabilia — and lots of books.",
+      "url": "https://www.nytimes.com/2022/02/15/realestate/how-alex-edelman-grew-to-love-his-familys-condo-shvach-sofa-and-all.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/02/20/realestate/15WIL-EDELMAN-slide-1YF6/15WIL-EDELMAN-slide-1YF6-facebookJumbo.jpg",
+      "publishedAt": "2022-02-16T22:00:47Z",
+      "content": "The welcome mat is always out. During Hurricane Sandy, 11 people bunked there. (Take that literally one of the bedrooms has bunk beds.) Mr. Edelmans brother A.J. Edelman, who represented Israel in sk… [+1894 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Jonathan Abrams",
+      "title": "In Luge and Skeleton the Goal Is to Go Fast. Just Not Too Fast.",
+      "description": "Technology and safety are colliding in sliding sports, where sleds made for speed are finding tracks built to slow them down.",
+      "url": "https://www.nytimes.com/2022/02/07/sports/safety-luge-skeleton-olympics.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/02/03/sports/oly-safety-top/merlin_201265836_5e0a712d-41ec-4d8f-a7e9-2cc779290c27-facebookJumbo.jpg",
+      "publishedAt": "2022-02-07T09:00:10Z",
+      "content": "Smith has struggled with a range of issues, including depression, anxiety and memory loss, since retiring from competition in 2004. She cited the death of Adam Wood, a Canadian bobsledder who died by… [+1682 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Czech millionaire investigated over alleged 417km/h motorway drive in Germany",
+      "description": "The Czech sports car owner posted videos of his trip in a Bugatti Chiron on the A2 last summer.",
+      "url": "https://www.bbc.co.uk/news/world-europe-60301705",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/105FB/production/_123176076_gettyimages-1148140843.jpg",
+      "publishedAt": "2022-02-08T12:27:11Z",
+      "content": "Image caption, The wealthy motorist was driving a Bugatti Chiron (file photo)\r\nGermany is famous for having no speed limits on stretches of its motorways, but a Czech millionaire appearing to do 417k… [+1564 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "How will the Beijing Games be remembered?",
+      "description": "Passports, pressure and pandas: A look back at two weeks of sports, drama and controversy.",
+      "url": "https://www.bbc.co.uk/news/world-asia-china-60429251",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1798/production/_123304060_gettyimages-1238512437.jpg",
+      "publishedAt": "2022-02-21T00:10:18Z",
+      "content": "By Stephen McDonellBBC News, Beijing\r\nImage source, Getty Images\r\nImage caption, China managed to get at least some spectators into stands\r\nThe Olympic flame has been extinguished. So what does the a… [+7920 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "The New York Times",
+      "title": "Top Court in Sports Explains Why Kamila Valieva Was Allowed to Compete",
+      "description": "A panel let the Russian figure skater compete because it felt a suspension could have caused her “irreparable harm.” Here’s the latest from the Olympics.",
+      "url": "https://www.nytimes.com/live/2022/02/17/sports/olympics-medals-winter",
+      "urlToImage": "https://static01.nyt.com/images/2022/02/18/multimedia/18olympics-briefing-header-6PM/18olympics-briefing-header-6PM-facebookJumbo.jpg",
+      "publishedAt": "2022-02-17T23:28:05Z",
+      "content": "Kamila Valievas disappointment was palpable after an error-filled free skate.Credit...Chang W. Lee/The New York Times\r\nKamila Valieva, the Russian star at the center of a doping scandal, knew immedia… [+5021 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Jesse McKinley",
+      "title": "Online Sports Betting Makes an Eye-Popping Debut in New York",
+      "description": "Since the state legalized online gambling in January, bets have poured in, bringing revenue to tax coffers but worrying addiction specialists.",
+      "url": "https://www.nytimes.com/2022/02/22/nyregion/online-sports-betting-new-york.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/02/20/us/00NYGAMBLING-3/00NYGAMBLING-3-facebookJumbo.jpg",
+      "publishedAt": "2022-02-22T10:00:19Z",
+      "content": "As of Friday, New York had already taken in some $78.5 million from that tax, far more than the $49 million that the state budget office initially estimated it would receive in the first three months… [+1813 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Jenny Vrentas",
+      "title": "N.F.L. Becomes First Major American Sports League to Drop Covid-19 Protocols",
+      "description": "The league and the players’ union announced they would lift policies that had governed testing, masking and social distancing since March 2020.",
+      "url": "https://www.nytimes.com/2022/03/03/sports/football/nfl-covid-protocol.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/03/03/sports/03nfl-covid-1/03nfl-covid-1-facebookJumbo.jpg",
+      "publishedAt": "2022-03-03T20:11:11Z",
+      "content": "The N.F.L. and the N.F.L. Players Association agreed to suspend all Covid-19 protocols, effective immediately, returning teams and players to pre-pandemic operations for the first time since March 20… [+1000 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Jesse McKinley",
+      "title": "Online Sports Betting’s N.Y. Debut: $2.4 Billion in Wagers in 5 Weeks",
+      "description": "Since the state legalized online gambling in January, bets have poured in, bringing revenue to tax coffers but worrying addiction specialists.",
+      "url": "https://www.nytimes.com/2022/02/22/nyregion/sports-betting-ny.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/02/20/us/00NYGAMBLING-3/00NYGAMBLING-3-facebookJumbo.jpg",
+      "publishedAt": "2022-02-22T10:00:19Z",
+      "content": "As of Friday, New York had already taken in some $78.5 million from that tax, far more than the $49 million that the state budget office initially estimated it would receive in the first three months… [+1813 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Editorial",
+      "title": "Greece clamps down on sports hooliganism - Reuters",
+      "description": "Greece said it will tighten rules to combat violence at sports events following the killing of a 19-year-old soccer fan, in an attack believed to be by rival supporters.",
+      "url": "https://www.reuters.com/video/watch/idOVFXTJVQJ",
+      "urlToImage": "https://static.reuters.com/resources/r/?d=20220208&i=OVFXTJVQJ&r=OVFXTJVQJ&t=2",
+      "publishedAt": "2022-02-08T11:26:57Z",
+      "content": "Posted \r\nGreece said it will tighten rules to combat violence at sports events following the killing of a 19-year-old soccer fan, in an attack believed to be by rival supporters."
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Editorial",
+      "title": "Greece clamps down on sports hooliganism - Reuters",
+      "description": "Greece said it will tighten rules to combat violence at sports events following the killing of a 19-year-old soccer fan, in an attack believed to be by rival supporters.",
+      "url": "https://www.reuters.com/video/watch/idPD5u?now=true",
+      "urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/62024eb6e4b09631b0e45cc5?location=LANDSCAPE",
+      "publishedAt": "2022-02-08T11:31:35Z",
+      "content": "Posted \r\nGreece said it will tighten rules to combat violence at sports events following the killing of a 19-year-old soccer fan, in an attack believed to be by rival supporters."
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Kris Holt",
+      "title": "Disney+ streamed the Oscar nominations to test live events",
+      "description": "Disney+\r\n dipped its toes into the world of livestreaming for the first time in the US with a broadcast of this year's Oscar nominations, offering a glimpse of a possible direction for the platform. \"We performed a test for livestreaming capabilities on Disne…",
+      "url": "https://www.engadget.com/disney-plus-livestreaming-oscar-nominations-180829657.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/047edf50-8908-11ec-b77a-74db55ae8b45",
+      "publishedAt": "2022-02-08T18:08:29Z",
+      "content": "Disney+\r\n dipped its toes into the world of livestreaming for the first time in the US with a broadcast of this year's Oscar nominations, offering a glimpse of a possible direction for the platform. … [+1238 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Astead W. Herndon",
+      "title": "Remembering What Draws You In",
+      "description": "Fandom can be an exercise in frustration. But for a supporter who grew up on American sports, soccer’s community offered a welcome sense of power that had been missing.",
+      "url": "https://www.nytimes.com/2022/02/11/sports/soccer/remembering-what-draws-you-in.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/02/13/multimedia/11rory-top/11rory-top-facebookJumbo.jpg",
+      "publishedAt": "2022-02-11T21:23:59Z",
+      "content": "For 13 years, across new schools and new cities, new jobs and the campaign trail, the cadence of Tottenham has been a comforting structure. Even the disappointments feel good, sometimes, a reminder t… [+833 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Nicole Lee",
+      "title": "All the ways to watch Super Bowl 2022",
+      "description": "Super Bowl 56 will occur this Sunday between the Cincinnati Bengals and the Los Angeles Rams. NFL's biggest event of the year is a television phenomenon that goes beyond just sports, be it million-dollar-commercials, the half-time concert or just an excuse to…",
+      "url": "https://www.engadget.com/how-to-watch-super-bowl-2022-150039732.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-02/56d700c0-66ef-11eb-bfff-9ccd01a681ac",
+      "publishedAt": "2022-02-12T15:00:39Z",
+      "content": "Super Bowl 56 will occur this Sunday between the Cincinnati Bengals and the Los Angeles Rams. NFL's biggest event of the year is a television phenomenon that goes beyond just sports, be it million-do… [+2778 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Paul Verna )",
+      "title": "Sports gambling opportunities for marketers",
+      "description": "The legalization of sports gambling in more than 20 US states has opened new business opportunities, and potential pitfalls, for streaming services.",
+      "url": "https://www.businessinsider.com/2-10-2022-sports-gambling-marketing-opportunities",
+      "urlToImage": "https://i.insider.com/5dadb6fa4af9097a4b2bb013?width=1200&format=jpeg",
+      "publishedAt": "2022-02-09T21:02:00Z",
+      "content": "The legalization of sports gambling in more than 20 US states has opened new business opportunities, and potential pitfalls, for broadcasters and \r\nstreaming services that seek to tie in betting cont… [+5494 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Paul Verna )",
+      "title": "Sports gambling opportunities for marketers",
+      "description": "The legalization of sports gambling in more than 20 US states has opened new business opportunities, and potential pitfalls, for streaming services.",
+      "url": "https://www.businessinsider.com/12-24-2024-sports-gambling-marketing-opportunities",
+      "urlToImage": "https://i.insider.com/5dadb6fa4af9097a4b2bb013?width=1200&format=jpeg",
+      "publishedAt": "2022-02-24T21:00:00Z",
+      "content": "The legalization of sports gambling in more than 20 US states has opened new business opportunities, and potential pitfalls, for broadcasters and \r\nstreaming services that seek to tie in betting cont… [+5494 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Paul Verna )",
+      "title": "Sports gambling opportunities for marketers",
+      "description": "The legalization of sports gambling in more than 20 US states has opened new business opportunities, and potential pitfalls, for streaming services.",
+      "url": "https://www.businessinsider.com/2-17-2022-sports-gambling-marketing-opportunities",
+      "urlToImage": "https://i.insider.com/5dadb6fa4af9097a4b2bb013?width=1200&format=jpeg",
+      "publishedAt": "2022-02-17T22:03:00Z",
+      "content": "The legalization of sports gambling in more than 20 US states has opened new business opportunities, and potential pitfalls, for broadcasters and \r\nstreaming services that seek to tie in betting cont… [+5494 chars]"
+    }
+  ]
+}
